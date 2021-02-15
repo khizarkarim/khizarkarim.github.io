@@ -4,6 +4,7 @@ title: "var.projects"
 permalink: /projects
 ---
 
-List of projects here.
+## Projects
 
-1. MiFare Classic 1K RNG exploit
+1. [MiFare Classic 1K RNG exploit](/projects/mifare-classic-exploit)
+2. [Restriction Using SSH Public Keys](/projects/ssh-key-command-restriction)
