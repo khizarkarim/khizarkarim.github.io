@@ -1,1 +1,0 @@
-# The Cayman theme
