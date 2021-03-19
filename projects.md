@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "var.projects"
+title: "var.projects // work in progress"
 permalink: /projects
 ---
 
